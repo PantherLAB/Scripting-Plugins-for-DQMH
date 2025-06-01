@@ -48,11 +48,11 @@
 			<Item Name="New DQMH Unit Test" Type="Folder">
 				<Item Name="PantherLAB_Log - New DQMH Unit Test.vi" Type="VI" URL="../DQMH Scripting Plugins/New DQMH Unit Test/PantherLAB_Log - New DQMH Unit Test.vi"/>
 			</Item>
-			<Item Name="PantherLAB Scripting Hooks" Type="Folder">
-				<Item Name="PantherLAB_Scripting.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Scripting.lvlib"/>
-			</Item>
 		</Item>
-		<Item Name="Support" Type="Folder"/>
+		<Item Name="PantherLAB Scripting Hooks" Type="Folder">
+			<Item Name="PantherLAB_Scripting.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Scripting.lvlib"/>
+			<Item Name="Support.lvlib" Type="Library" URL="../Support Library/Support.lvlib"/>
+		</Item>
 		<Item Name="VIPM Custom Actions" Type="Folder">
 			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../Post-Install Custom Action.vi"/>
 			<Item Name="Post-Uninstall Custom Action.vi" Type="VI" URL="../Post-Uninstall Custom Action.vi"/>
@@ -62,6 +62,7 @@
 		<Item Name="To Find the files to delete.vi" Type="VI" URL="../To Find the files to delete.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Compare Two Paths.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Compare Two Paths.vi"/>
