@@ -1,0 +1,8 @@
+the lv_IconEditor.lvlib was added due VIPM finding this as missing called library
+
+Copy this dummy library into:
+C:\Program Files (x86)\National Instruments\LabVIEW 2016\resource\plugins
+
+
+before building.
+
