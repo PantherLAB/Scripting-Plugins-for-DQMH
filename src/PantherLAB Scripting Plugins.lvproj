@@ -52,10 +52,7 @@
 				<Item Name="PantherLAB_Scripting.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Scripting.lvlib"/>
 			</Item>
 		</Item>
-		<Item Name="Support" Type="Folder">
-			<Item Name="Panther Style--constant.vi" Type="VI" URL="../Panther Style--constant.vi"/>
-			<Item Name="PantherLAB Branding.vi" Type="VI" URL="../PantherLAB Branding.vi"/>
-		</Item>
+		<Item Name="Support" Type="Folder"/>
 		<Item Name="VIPM Custom Actions" Type="Folder">
 			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../Post-Install Custom Action.vi"/>
 			<Item Name="Post-Uninstall Custom Action.vi" Type="VI" URL="../Post-Uninstall Custom Action.vi"/>
