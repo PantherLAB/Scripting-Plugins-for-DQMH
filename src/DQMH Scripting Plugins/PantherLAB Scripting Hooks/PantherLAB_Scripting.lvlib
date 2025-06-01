@@ -8,13 +8,5 @@
 
 </Property>
 	<Item Name="Build Log Path.vi" Type="VI" URL="../Build Log Path.vi"/>
-	<Item Name="Check if controls or constants.vi" Type="VI" URL="../Check if controls or constants.vi"/>
-	<Item Name="Check if Create Controls Enabled.vi" Type="VI" URL="../Check if Create Controls Enabled.vi"/>
-	<Item Name="Check if Exclude Terminals.vi" Type="VI" URL="../Check if Exclude Terminals.vi"/>
-	<Item Name="Check if Panther Logs Enabled.vi" Type="VI" URL="../Check if Panther Logs Enabled.vi"/>
-	<Item Name="Controls or Constants--enum.ctl" Type="VI" URL="../Controls or Constants--enum.ctl"/>
-	<Item Name="Enable Panther Logs.vi" Type="VI" URL="../Enable Panther Logs.vi"/>
 	<Item Name="Open Log Reference.vi" Type="VI" URL="../Open Log Reference.vi"/>
-	<Item Name="Panther Style--constant.vi" Type="VI" URL="../Panther Style--constant.vi"/>
-	<Item Name="PantherLAB Branding.vi" Type="VI" URL="../PantherLAB Branding.vi"/>
 </Library>
