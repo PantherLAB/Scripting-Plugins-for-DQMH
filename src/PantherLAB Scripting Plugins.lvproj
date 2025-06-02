@@ -16,7 +16,6 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="PantherLAB Scripting Hooks" Type="Folder">
 				<Item Name="PantherLAB_Scripting.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Scripting.lvlib"/>
-				<Item Name="Support.lvlib" Type="Library" URL="../Support Library/Support.lvlib"/>
 			</Item>
 			<Item Name="Add New DQMH Module" Type="Folder">
 				<Item Name="PantherLAB_Log - Add New DQMH Module.vi" Type="VI" URL="../DQMH Scripting Plugins/Add New DQMH Module/PantherLAB_Log - Add New DQMH Module.vi"/>
@@ -59,6 +58,7 @@
 		</Item>
 		<Item Name="Configure Scripting Plugins.vi" Type="VI" URL="../Configure Scripting Plugins.vi"/>
 		<Item Name="READ this for building.txt" Type="Document" URL="../READ this for building.txt"/>
+		<Item Name="Support.lvlib" Type="Library" URL="../Support Library/Support.lvlib"/>
 		<Item Name="To Find the files to delete.vi" Type="VI" URL="../To Find the files to delete.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
