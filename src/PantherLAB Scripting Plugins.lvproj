@@ -14,6 +14,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DQMH Scripting Plugins" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="PantherLAB Scripting Hooks" Type="Folder">
+				<Item Name="PantherLAB_Scripting.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Scripting.lvlib"/>
+				<Item Name="Support.lvlib" Type="Library" URL="../Support Library/Support.lvlib"/>
+			</Item>
 			<Item Name="Add New DQMH Module" Type="Folder">
 				<Item Name="PantherLAB_Log - Add New DQMH Module.vi" Type="VI" URL="../DQMH Scripting Plugins/Add New DQMH Module/PantherLAB_Log - Add New DQMH Module.vi"/>
 			</Item>
@@ -48,10 +52,6 @@
 			<Item Name="New DQMH Unit Test" Type="Folder">
 				<Item Name="PantherLAB_Log - New DQMH Unit Test.vi" Type="VI" URL="../DQMH Scripting Plugins/New DQMH Unit Test/PantherLAB_Log - New DQMH Unit Test.vi"/>
 			</Item>
-		</Item>
-		<Item Name="PantherLAB Scripting Hooks" Type="Folder">
-			<Item Name="PantherLAB_Scripting.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Scripting.lvlib"/>
-			<Item Name="Support.lvlib" Type="Library" URL="../Support Library/Support.lvlib"/>
 		</Item>
 		<Item Name="VIPM Custom Actions" Type="Folder">
 			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../Post-Install Custom Action.vi"/>

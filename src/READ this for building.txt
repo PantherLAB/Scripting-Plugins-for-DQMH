@@ -3,6 +3,7 @@ the lv_IconEditor.lvlib was added due VIPM finding this as missing called librar
 Copy this dummy library into:
 C:\Program Files (x86)\National Instruments\LabVIEW 2016\resource\plugins
 
+Open the 'To find the files to delete.vi' and update the post uninstall custom action.vi, that vi has a list of vis if the user decide to uninstall the package
 
 before building.
 
