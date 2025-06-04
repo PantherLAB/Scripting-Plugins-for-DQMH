@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-06-01 14:06:23" Modified_Date="2025-06-02 11:59:37" Creator="Enrique" Comments="" ID="0bcf7fecbe0676fd9deccb3ef79fcd7e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-06-01 14:06:23" Modified_Date="2025-06-02 22:04:59" Creator="Enrique" Comments="" ID="31817b2fab8a788546dab8a6b1a5248a">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Scripting_Plugins_for_DQMH</Package_File_Name>
-    <Library_Version>1.0.1.5</Library_Version>
+    <Library_Version>1.1.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>Z:\GitClones\Package\Scripting Plugins for DQMH</Library_Output_Folder>
@@ -43,6 +43,8 @@ This is the list of Plugins currently in this package
 
 -Create Controls and indicators: automatically generate controls and indicators or constants and indicators for every public request in the API Tester. 
 
+-Remove #DQMH Bookmarks for the new DQMH Events, this plugin will remove the bookmarks in the API Tester and Main.vi MHL.
+
 Need to boost your LabVIEW project?
 Whether you’re a manager, developer, or an engineering team, PantherLAB offers:
 -Software Development
@@ -58,8 +60,7 @@ Join the Panther Way</Description>
       <Copyright/>
       <Packager>Enrique Noe | PantherLAB</Packager>
       <URL>https://github.com/PantherLAB/Scripting-Plugins-for-DQMH</URL>
-      <Release_Notes>Initial Release
-This package has Two DQMH Post Scripting Actions.</Release_Notes>
+      <Release_Notes>Added Scripting to Remove #DQMH Bookmarks for the New Events created by DQMH Framework.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

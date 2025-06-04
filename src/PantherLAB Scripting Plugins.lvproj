@@ -29,7 +29,7 @@
 			<Item Name="Create New DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_CreateControlsIndicators.vi" Type="VI" URL="../DQMH Scripting Plugins/Create New DQMH Event/PantherLAB_CreateControlsIndicators.vi"/>
 				<Item Name="PantherLAB_Log - Create New DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Create New DQMH Event/PantherLAB_Log - Create New DQMH Event.vi"/>
-				<Item Name="PantherLAB_RemoveInstructionsBookmarks.vi" Type="VI" URL="../../../../Users/Enrique/Documents/LabVIEW Data/DQMH Scripting Plugins/Create New DQMH Event/PantherLAB_RemoveInstructionsBookmarks.vi"/>
+				<Item Name="PantherLAB_RemoveInstructionsBookmarks.vi" Type="VI" URL="../DQMH Scripting Plugins/Create New DQMH Event/PantherLAB_RemoveInstructionsBookmarks.vi"/>
 			</Item>
 			<Item Name="Remove DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Remove DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Remove DQMH Event/PantherLAB_Log - Remove DQMH Event.vi"/>
