@@ -8,5 +8,9 @@
 
 </Property>
 	<Item Name="Build Log Path.vi" Type="VI" URL="../Build Log Path.vi"/>
+	<Item Name="Find Module Main VI.vi" Type="VI" URL="../Find Module Main VI.vi"/>
+	<Item Name="Find Modules API Testers.vi" Type="VI" URL="../Find Modules API Testers.vi"/>
 	<Item Name="Open Log Reference.vi" Type="VI" URL="../Open Log Reference.vi"/>
+	<Item Name="Search Bookmarks with event names Broadcasts.vi" Type="VI" URL="../Search Bookmarks with event names Broadcasts.vi"/>
+	<Item Name="Search Bookmarks with event names Requests.vi" Type="VI" URL="../Search Bookmarks with event names Requests.vi"/>
 </Library>
