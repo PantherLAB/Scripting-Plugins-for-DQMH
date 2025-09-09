@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-06-01 14:06:23" Modified_Date="2025-06-05 11:06:25" Creator="Enrique" Comments="" ID="bd534ca36221810fabf472aed475843f">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-06-01 14:06:23" Modified_Date="2025-09-08 20:04:32" Creator="Enrique" Comments="" ID="1ca7cc59aec4bc3763fead676b9ea9cf">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Scripting_Plugins_for_DQMH</Package_File_Name>
-    <Library_Version>1.1.1.7</Library_Version>
+    <Library_Version>1.1.1.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>Z:\GitClones\Package\Scripting Plugins for DQMH</Library_Output_Folder>
@@ -60,7 +60,10 @@ Join the Panther Way</Description>
       <Copyright/>
       <Packager>Enrique Noe | PantherLAB</Packager>
       <URL>https://github.com/PantherLAB/Scripting-Plugins-for-DQMH</URL>
-      <Release_Notes>Added Scripting to Remove #DQMH Bookmarks for the New Events created by DQMH Framework.</Release_Notes>
+      <Release_Notes>#1 Clean up Wires after creating controls and indicators
+#1 move control/indicators labels to the left of right depending if those are controls or indicators
+#2 Write all ini tokens after installing pakcage
+#2 Delete all ini tokens after uninstalling package</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
